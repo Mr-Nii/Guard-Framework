@@ -3,3 +3,4 @@ argparse
 google
 bs4
 termcolor
+nmap
