@@ -938,6 +938,7 @@ failure/
 failures/
 fake/
 fall/
+finance/
 fallback/
 false/
 faq/
