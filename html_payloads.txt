@@ -3,3 +3,5 @@
 <a href="#inject_html>test_html_injection</a>
 <span>test_html_injection</span>
 <i>test_html_injection</span>
+<i>search_html</span>
+
