@@ -759,11 +759,11 @@ python3 Webguard.py --word project  --type sha1
 python3 Webguard.py --word project  --type sha256
 python3 Webguard.py --word project  --type sha512
 python3 Webguard.py --hash_type 5f4dcc3b5aa765d61d8327deb882cf99
-python3 Webguard.py --wordpress http://ebase.com/
-python3 Webguard.py --wordpress http://ebase.com/ --ListUsername /root/Desktop/users.txt --ListPassowrd /root/Desktop/pass.txt
-python3 Webguard.py --wordpress http://ebase.com/ --ListUsername /root/Desktop/users.txt 
-python3 Webguard.py --wordpress http://ebase.com/ --ListPassword /root/Desktop/pass.txt
-python3 Webguard.py --wordpress https://everythingrevelstoke.com --enum use
+python3 Webguard.py --wordpress https://example com/
+python3 Webguard.py --wordpress https://example.com/ --ListUsername /root/Desktop/users.txt --ListPassowrd /root/Desktop/pass.txt
+python3 Webguard.py --wordpress https://example.com/ --ListUsername /root/Desktop/users.txt 
+python3 Webguard.py --wordpress https://example.com/ --ListPassword /root/Desktop/pass.txt
+python3 Webguard.py --wordpress https://example.com  --enum use
 
 
 
