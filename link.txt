@@ -19,6 +19,7 @@ login.asp
 adm/
 admin/
 admin/account.html
+admin/finace.html
 admin/login.html
 admin/login.htm
 admin/controlpanel.html
