@@ -3,6 +3,7 @@
 <ScRipT>alert(123);</ScRipT>
 <script>alert(123);</script>
 <ScRipT>alert(123)</ScRipT>
+<ScRipT>alert(2);</ScRipT>
 </script><script>alert(1)</script>
 ; alert(1);
 )alert(1);
