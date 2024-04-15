@@ -21,6 +21,7 @@ news
 sms
 test
 video
+fin
 www2
 media
 static
